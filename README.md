@@ -8,7 +8,7 @@ The main goal of this project is to generating customized emojis in different so
 
 ## Fine-tuning Instruction
 
-We provide the corresponding code and dataset in 'Final' folder. You can run files in [lora_finetune_attention_weight.ipynb](lora_finetune_attention_weight.ipynb) to reproduce the model.
+We provide the corresponding code and dataset in [Final](Final)  folder. You can run files in [lora_finetune_attention_weight.ipynb](Final/lora_finetune_attention_weight.ipynb) to reproduce the model.
 
 ### Requirement
 
