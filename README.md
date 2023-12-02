@@ -1,4 +1,4 @@
-# Fine-Tuning Lambda Diffusion Model for Emojis Generation from Text
+# Fine-Tuning Stable Diffusion Model for Emojis Generation from Text
 
 ### You  can use google colab to train the whole model.
 ### We have tried about 5 different ways, you can just try the fourth one and the fifth one since they perform better than the other three.
