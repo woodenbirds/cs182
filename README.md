@@ -46,3 +46,10 @@ During the training, you just need to follow the instruction in the [lora_finetu
 ### Dataset
 
 We used [Full Emoji Image Dataset] (https://www.kaggle.com/datasets/subinium/emojiimage-dataset) on kaggle as our training and validation dataset. We use [test.ipynb](test.ipynb) to preprocess the data into the form we need, which are stored in the "Fourth Trial" folder. You can also try to process them by yourself. For the mixed dataset, the prompt of each image is in the form of '(description) + emoji in <sx> style', where sx = [s0, s1, s2, ..., s6] corresponding to ['Apple', 'Google', 'Facebook', 'Samsung', 'Windows', 'Twitter','JoyPixels']. The data ratio is: train_set : validation_set : test_set = 100 : 1 : 20. You can find them in [data](Fifth_Trial/data).For the single dataset, the prompt of each image is in the form of '(desciption) + emoji'. The data ratio is: train_set : validation_set : test_set = 100 : 1 : 20. You can find them in [Apple_style_data](Fifth_Trial/Apple_style_data).
+
+## Final Result
+
+We choose model with rank = 64, learning rate = 1e-4, weight decay = 0.01 as the final fine-tuned model. For the model, we add Lora to every blocks in Unet and add Lora on (q,k,v,o) matrix. The evaluation methods can be seen in both the last part of [lora_finetune_attention_weight.ipynb](Fifth_Trial/lora_finetune_attention_weight.ipynb) and [evaluation_score.py](evaluation_score.py).
+
+You can see the checkpoints of the fine-tuned model in [latest_model_checkpoint](latest_model_checkpoint).
+
