@@ -3,6 +3,10 @@
 ### You  can use google colab to train the whole model.
 ### We have tried about 5 different ways, you can just try the fourth one and the fifth one since they perform better than the other three.
 
+"shocked face emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png)
+"sleeping face emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping.png)
+"smiling face with sunglasses emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/sunglasses.png)
+
 ## Overview
 
 The main goal of this project is to generating customized emojis in different software style using a fine-tuned stable diffusion model. The methodology includes data preprocessing from the Full Emoji Image Dataset and details the integration of LoRA with the base model.
