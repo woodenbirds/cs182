@@ -3,7 +3,7 @@
 ### You  can use google colab to train the whole model.
 ### We have tried about 5 different ways, you can just try the fourth one and the fifth one since they perform better than the other three.
 
-<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shock_origin.png" width="10%" alt="shocked face emoji"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping origin.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sunglass_origin.png" width="10%">
+<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shock_origin.png" width="10%" alt="shocked"/>shocked face emoji<br/> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping origin.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sunglass_origin.png" width="10%">
 =>
 <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sunglasses.png" width="10%">
 
