@@ -3,7 +3,7 @@
 ### You  can use google colab to train the whole model.
 ### We have tried about 5 different ways, you can just try the fourth one and the fifth one since they perform better than the other three.
 
-"shocked face emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png)
+"shocked face emoji" <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png" width="30%">
 "sleeping face emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping.png)
 "smiling face with sunglasses emoji" ![image](https://github.com/woodenbirds/cs182/blob/master/imgs/sunglasses.png)
 
