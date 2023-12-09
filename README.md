@@ -5,9 +5,7 @@
 
 "shocked face emoji" | "sleeping face emoji" | "smiling face with sunglasses emoji" 
 
-<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png" width="10%">
-<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping.png" width="10%">
-<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sunglasses.png" width="10%">
+<img src="https://github.com/woodenbirds/cs182/blob/master/imgs/shocking.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sleeping.png" width="10%"> <img src="https://github.com/woodenbirds/cs182/blob/master/imgs/sunglasses.png" width="10%">
 
 ## Overview
 
