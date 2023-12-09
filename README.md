@@ -31,7 +31,7 @@ During the training, you just need to follow the instruction in the [lora_finetu
 
 ### Dataset
 
-We used [Full Emoji Image Dataset] (https://www.kaggle.com/datasets/subinium/emojiimage-dataset) on kaggle as our training and validation dataset. We use [test.ipynb](test.ipynb) to preprocess the data into the form we need, which are stored in the "Fourth Trial" folder. You can also try to process them by yourself. The data ratio is: train_set : validation_set : test_set = 100 : 1 : 20. For this trail, because we choose to train all the type together, the prompt of each image is in the form of '(description) + emoji in (typical) style'. You can find them in [data](Fourth_Trial/data).
+We used [Full Emoji Image Dataset](https://www.kaggle.com/datasets/subinium/emojiimage-dataset) on kaggle as our training and validation dataset. We use [test.ipynb](test.ipynb) to preprocess the data into the form we need, which are stored in the "Fourth Trial" folder. You can also try to process them by yourself. The data ratio is: train_set : validation_set : test_set = 100 : 1 : 20. For this trail, because we choose to train all the type together, the prompt of each image is in the form of '(description) + emoji in (typical) style'. You can find them in [data](Fourth_Trial/data).
 
 ## The fifth trial
 
